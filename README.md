@@ -7,4 +7,4 @@ link of the product 2 : https://www.sabhyasha.com/products/womens-ruffle-sleeve-
    standard img of blouse from front and back for better look, depending on the design we could also add right and left side views.
 
 link of the product 3 : https://www.sabhyasha.com/products/mens-classic-button-up-shirt<br>
-    this will only work when the shirt was in open and not folded.
+    this will only work when the shirt was in open and not folded, same for other piece of cloths 
